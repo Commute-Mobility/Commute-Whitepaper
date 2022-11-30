@@ -1,7 +1,5 @@
 ## The company for data-driven mobility solutions for cities of the future.
 
----
-
 ## Navigation Index
 #### 🌿 [What is Commute?](#-mission--vision)
 #### ❓ [Why Commute?](#-why-commute)
@@ -16,15 +14,11 @@
 #### 📧  [Contact Us](#-contact-us)
 #### 📙 [References](#-references-1)
 
----
-
 ## 🌿 What is Commute?
 Our services.
 
 ### What service do we deliver?
 Commute provides data-driven and scientifically grounded solutions to urban planners and policymakers to build, upgrade, and optimize transportation infrastructures for better livability. The goal of Commute is to develop and utilize state-of-the-art algorithms to enrich urban landscapes by conceiving networks that promote the organic coexistence of humans and transportation.
-
----
 
 ## ❓ Why Commute?
 It is really that simple.
@@ -41,8 +35,6 @@ The solutions provided by Commute are scientifically grounded, and all our resul
 3. **Commute is different, it makes long-lasting changes.**
 The idea behind Commute is to reshape human mobility at its foundation, the conception of the network infrastructure. This involves creating original network designs from scratch, revamping transportation infrastructures to achieve better livability (e.g. renovating outdated roads to meet optimality criteria), and optimizing traffic flows on existing urban networks.
 
----
-
 ## 🔭 Mission & Vision
 Our goals.
 
@@ -51,12 +43,8 @@ Our mission is to uplift the livability of cities by designing human-centered tr
 ### Vision
 Our long-term vision is to empower policymakers with a powerful, reliable, and secure scientific framework that is able to automate the design of cities of the future. Our core values revolve around the concept of a human-centered urban landscape, where transport infrastructures organically integrate with our lives to aid sustainability, safety and inclusion, with the scope to enrich our societies. Our transportation solutions prioritize livability, as a shared condition of well-being for all.
 
----
-
 ## Redesign Transportation
 A guide on the elements of transportation systems.
-
----
 
 ## 🚦 Transportation Systems
 
@@ -79,8 +67,6 @@ Other transportation elements are:
 4. **Policy.** This deals with creating a system of rules which are developed to attain particular goals pertaining to social, economic, and environmental factors, as well as the operation and performance of the transportation system.
 
 At Commute, we focus on empowering policymakers with scientific tools to create better transportation infrastructures where the operation of diverse transportation means is optimal. 
-
----
 
 ## ☀️ Urban Transportation of the Future
 This is how we envision transportation of the future.
@@ -117,8 +103,6 @@ Robustness: is the transport infrastructure resilient to road jamming and breaka
 ### Economical Competitiveness
 Recent studies **[SZELL]** show that cycling networks, which are a promising solution to unsustainable urban transport systems, need to (goal 1) be developed with the right growth strategy, and, crucially, (goal 2) be funded persistently while avoiding as much as possible scattered investments. To achieve these goals and to have a low economical burden on societies, at Commute we want to create a platform for making coordinated investments to improve the transport infrastructure as a whole, i.e. with several coexisting means of transportation.
 
----
-
 ## 🎯 Commute Workflow
 Our workflow: data-driven solutions tailored to clients' requests.
 
@@ -147,8 +131,6 @@ The circular and compartmentalized workflow of Commute allows us to deliver tail
 
 **(Back to) Step 1.** The client.
 
----
-
 ## 📊 Scientific Research
 Our scientific publications.
 
@@ -174,11 +156,7 @@ Our scientific publications.
 
 - [Network extraction by routing optimization](https://www.nature.com/articles/s41598-020-77064-4)<br/>D Baptista, D Leite, E Facca, M Putti, C De Bacco<br/>Nature Sci. Rep. 10, 20806 (2020)
 
----
-
 ## Behind Commute
-
----
 
 ## 💪 The Team
 Meet the people behind Commute.
@@ -211,8 +189,6 @@ Cofounder<br/>
 Max Planck Institute for Intelligent Systems<br/>
 [🌐](https://www.cdebacco.com/)
 
----
-
 ## 📧 Contact Us
 Where can you find us?
 
@@ -225,8 +201,6 @@ Alternatively, below you can find all our contacts.
 💼 Linkedin<br/>
 🐘 Mastodon<br/>
 🛠️ [GitHub](https://github.com/Commute-Mobility)<br/>
-
----
 
 ## 📙 References
 
