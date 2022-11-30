@@ -76,7 +76,8 @@ This is how we envision transportation of the future.
 
 We believe that modern-day transportation needs to meet 5 crucial standards for a livable and human-centered future:
 
-<img src="https://github.com/Commute-Mobility/Commute-Whitepaper/blob/main/media/our5goals.svg" alt="The 5 criteria for livable transportation of the future." />
+![](https://github.com/Commute-Mobility/Commute-Whitepaper/blob/main/media/our5goals.svg)
+*text*
 
 
 ## Contacts
