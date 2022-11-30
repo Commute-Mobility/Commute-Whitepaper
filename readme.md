@@ -1,9 +1,9 @@
 ## The company for data-driven mobility solutions for cities of the future.
 
 ## Navigation Index
-#### 🌿 [What is Commute?](#🌿-what-is-commute)
-#### ❓ [Why Commute?](#❓-why-commute)
-#### 🔭 [Mission & Vision](#🔭-mission--vision)
+#### 🌿 [What is Commute?](#-mission--vision)
+#### ❓ [Why Commute?](#-why-commute)
+#### 🔭 [Mission & Vision](#-mission--vision)
 ### Redesign Transportation
 #### 🚦 [Transportation Systems](#-transportation-systems)
 #### ☀️ [Urban Transportation of the Future](#️-urban-transportation-of-the-future)
@@ -43,6 +43,7 @@ Our mission is to uplift the livability of cities by designing human-centered tr
 Our long-term vision is to empower policymakers with a powerful, reliable, and secure scientific framework that is able to automate the design of cities of the future. Our core values revolve around the concept of a human-centered urban landscape, where transport infrastructures organically integrate with our lives to aid sustainability, safety and inclusion, with the scope to enrich our societies. Our transportation solutions prioritize livability, as a shared condition of well-being for all.
 
 ## Redesign Transportation
+A guide on the elements of transportation systems.
 
 ## 🚦 Transportation Systems
 
@@ -57,7 +58,7 @@ There are two different types of land transport infrastructures:
 1. **Rail networks.** Here a vehicle travels along two parallel steel rails that are referred to as a railway or railroad.
 2. **Road networks.** Here vehicles utilize roadways. A road is a clearly marked path that connects two or more locations. Roads are named streets when they pass through urban areas, e.g. a city or a village, acting both as a route and as an easement for the use of the urban space. The set of streets builds the Street Networks.
 
-### Transportation elements
+Other transportation elements are:
 
 1. **Means of transport.** Generally speaking, they can be either vehicles or animals. Vehicles (the primary mean of transport) are non-living devices that are used to move people and goods.
 2. **Infrastructure.** This is the fixed installation that allows a vehicle to operate.
@@ -69,6 +70,14 @@ At Commute, we focus on empowering policymakers with scientific tools to create 
 ### References
 **[WIKI]** [https://en.wikipedia.org/wiki/Transport](https://en.wikipedia.org/wiki/Transport)<br/>
 **[RODRIGUE]** The Geography of Transport Systems FIFTH EDITION Jean-Paul Rodrigue (2020), New York: Routledge, 456 pages. ISBN 978-0-367-36463-2, [https://doi.org/10.4324/9780429346323](https://doi.org/10.4324/9780429346323)
+
+## ☀️ Urban Transportation of the Future
+This is how we envision transportation of the future.
+
+We believe that modern-day transportation needs to meet 5 crucial standards for a livable and human-centered future:
+
+![The 5 criteria for livable transportation of the future.](https://github.com/Commute-Mobility/Commute-Whitepaper/../../../../media/our5goals.svg)
+
 
 ## Contacts
 📧 Email<br/>
