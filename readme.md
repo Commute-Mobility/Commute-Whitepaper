@@ -76,9 +76,22 @@ This is how we envision transportation of the future.
 
 We believe that modern-day transportation needs to meet 5 crucial standards for a livable and human-centered future:
 
+<p style="text-align: center;">
 ![](./media/our5goals.png)
-*text*
+The 5 criteria for livable transportation of the future.
+</p>
 
+### Sustainability
+
+Since 1990, the constant increase in car ownership has steadily incremented Green House Gases (GHG) emissions derived from transport. These emissions peaked at 8.7 GtCO2e (Giga Tonnes of CO2 equivalent) in 2019, with 72% percent of transportation emissions coming from roads.
+The EU is legally bound **[EU]** to meet Carbon neutrality by 2050. In order to achieve this goal, its interim emission reduction target for 2030 is to decrease the current GHG emission by at least 55%. The only solution for modern-day urban transportation to meet these goals is for them to reduce dependencies (and ultimately not rely upon) the world's natural resources such as coal, oil, and gas. Sustainable urban networks are crucial for the future of humanity.
+
+<p style="text-align: center;">
+![](./media/emission-urban.png)
+Contribution of transport to Global Green House emissions in 2019.
+Notes: Notes: CO2 = carbon dioxide; GHG = greenhouse gas; GtCO2e = gigatonnes of carbon dioxide equivalent.
+Source: **[BOEHM, MINX]**
+</p>
 
 ## Contacts
 📧 Email<br/>
