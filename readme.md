@@ -3,7 +3,7 @@
 ## Navigation Index
 #### 🌿 [What is Commute?](#-mission--vision)
 #### ❓ [Why Commute?](#-why-commute)
-#### 🔭 [Mission & Vision](#-mission--vision)
+#### 🔭 [Mission & Vision](#-mission--vision-1)
 ### Redesign Transportation
 #### 🚦 [Transportation Systems](#-transportation-systems)
 #### ☀️ [Urban Transportation of the Future](#️-urban-transportation-of-the-future)
@@ -76,7 +76,7 @@ This is how we envision transportation of the future.
 
 We believe that modern-day transportation needs to meet 5 crucial standards for a livable and human-centered future:
 
-![The 5 criteria for livable transportation of the future.](https://github.com/Commute-Mobility/Commute-Whitepaper/blob/main/media/our5goals.svg)
+![The 5 criteria for livable transportation of the future.](https://github.com/Commute-Mobility/Commute-Whitepaper/blob/main/media/our5goals.png)
 
 
 ## Contacts
