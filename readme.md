@@ -1,9 +1,9 @@
 ## The company for data-driven mobility solutions for cities of the future.
 
 ## Navigation Index
-#### 🌿 [What is Commute?](#-what-is-commute)
-#### ❓ [Why Commute?](#-why-commute)
-#### 🔭 [Mission & Vision](#-mission--vision)
+#### 🌿 [What is Commute?](#🌿-what-is-commute)
+#### ❓ [Why Commute?](#❓-why-commute)
+#### 🔭 [Mission & Vision](#🔭-mission--vision)
 ### Redesign Transportation
 #### 🚦 [Transportation Systems](#-transportation-systems)
 #### ☀️ [Urban Transportation of the Future](#️-urban-transportation-of-the-future)
@@ -58,10 +58,12 @@ There are two different types of land transport infrastructures:
 2. **Road networks.** Here vehicles utilize roadways. A road is a clearly marked path that connects two or more locations. Roads are named streets when they pass through urban areas, e.g. a city or a village, acting both as a route and as an easement for the use of the urban space. The set of streets builds the Street Networks.
 
 ### Transportation elements
+
 1. **Means of transport.** Generally speaking, they can be either vehicles or animals. Vehicles (the primary mean of transport) are non-living devices that are used to move people and goods.
 2. **Infrastructure.** This is the fixed installation that allows a vehicle to operate.
 3. **Operation.** Private transportation is only governed by the vehicle's owner, who also drives the vehicle. Governments or private businesses conduct operations for both public transportation and freight transportation.
 4. **Policy.** This deals with creating a system of rules which are developed to attain particular goals pertaining to social, economic, and environmental factors, as well as the operation and performance of the transportation system.
+
 At Commute, we focus on empowering policymakers with scientific tools to create better transportation infrastructures where the operation of diverse transportation means is optimal. 
 
 ### References
