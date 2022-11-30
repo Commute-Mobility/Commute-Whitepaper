@@ -31,7 +31,7 @@ To achieve such a change, we use a scientifically grounded and data-driven appro
 1. **Commute prioritizes you.**
 Our goal is to deliver human-centered solutions for transportation. This means that sustainability, safety and inclusivity are taken into account as main performance measures, while also guaranteeing travel efficiency.
 1. **Commute is entirely research-driven.**
-The solutions provided by Commute are scientifically grounded, and all our results are supported by a rigorous scientific evaluation. 
+The solutions provided by Commute are scientifically grounded, and all our results are supported by a rigorous scientific evaluation.
 3. **Commute is different, it makes long-lasting changes.**
 The idea behind Commute is to reshape human mobility at its foundation, the conception of the network infrastructure. This involves creating original network designs from scratch, revamping transportation infrastructures to achieve better livability (e.g. renovating outdated roads to meet optimality criteria), and optimizing traffic flows on existing urban networks.
 
@@ -44,9 +44,9 @@ Our mission is to uplift the livability of cities by designing human-centered tr
 Our long-term vision is to empower policymakers with a powerful, reliable, and secure scientific framework that is able to automate the design of cities of the future. Our core values revolve around the concept of a human-centered urban landscape, where transport infrastructures organically integrate with our lives to aid sustainability, safety and inclusion, with the scope to enrich our societies. Our transportation solutions prioritize livability, as a shared condition of well-being for all.
 
 ## Redesign Transportation
-A guide on the elements of transportation systems.
 
 ## 🚦 Transportation Systems
+A guide on the elements of transportation systems.
 
 Our goal is to provide assistance to policymakers and urban planners to build better transportation systems. For this reason, we present here a detailed guide on what they consist of **[WIKI, RODRIGUE]**.
 
@@ -66,7 +66,7 @@ Other transportation elements are:
 3. **Operation.** Private transportation is only governed by the vehicle's owner, who also drives the vehicle. Governments or private businesses conduct operations for both public transportation and freight transportation.
 4. **Policy.** This deals with creating a system of rules which are developed to attain particular goals pertaining to social, economic, and environmental factors, as well as the operation and performance of the transportation system.
 
-At Commute, we focus on empowering policymakers with scientific tools to create better transportation infrastructures where the operation of diverse transportation means is optimal. 
+At Commute, we focus on empowering policymakers with scientific tools to create better transportation infrastructures where the operation of diverse transportation means is optimal.
 
 ## ☀️ Urban Transportation of the Future
 This is how we envision transportation of the future.
@@ -77,7 +77,6 @@ We believe that modern-day transportation needs to meet 5 crucial standards for 
 *The 5 criteria for livable transportation of the future.*
 
 ### Sustainability
-
 Since 1990, the constant increase in car ownership has steadily incremented Green House Gases (GHG) emissions derived from transport. These emissions peaked at 8.7 GtCO2e (Giga Tonnes of CO2 equivalent) in 2019, with 72% percent of transportation emissions coming from roads.
 The EU is legally bound **[EU]** to meet Carbon neutrality by 2050. In order to achieve this goal, its interim emission reduction target for 2030 is to decrease the current GHG emission by at least 55%. The only solution for modern-day urban transportation to meet these goals is for them to reduce dependencies (and ultimately not rely upon) the world's natural resources such as coal, oil, and gas. Sustainable urban networks are crucial for the future of humanity.
 
@@ -92,7 +91,7 @@ In light of these data, modern urban transport needs to be made safe and inclusi
 ### Efficiency
 Our goal is to integrate the compelling obligations of sustainability, safety, and inclusivity into efficient transport. The two key steps to achieve efficiency by redesigning transport networks are:
 1. reducing the need for travel by connecting people and infrastructures with improved urban design (e.g. creating hubs);
-2. shifting from car-centric networks to infrastructures where bikes, pedestrians, and public transport are predominant means of transport. 
+2. shifting from car-centric networks to infrastructures where bikes, pedestrians, and public transport are predominant means of transport.
 
 ### Cohesiveness
 A crucial constraint that our urban networks need to meet is Cohesiveness **[CROW]**. This concept can be operationalized into a scientific framework. It consists of the union of three desiderata:
