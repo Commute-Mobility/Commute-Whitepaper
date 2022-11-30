@@ -1,11 +1,13 @@
 ## The company for data-driven mobility solutions for cities of the future.
 
-## NAVIGATION INDEX
-🌿 [What is Commute?](https://commute-mobility.github.io/Commute-Whitepaper/pages/../../../../What-is-Commute?.md)
+# NAVIGATION INDEX
+🌿 [What is Commute?](#what-is-commute)
 
 ## REDESIGN TRANSPORTATION
 
 ## BEHIND COMMUTE
+
+# 🌿 What is Commute?
 
 ## Contacts
 📧 Email<br/>
