@@ -152,25 +152,25 @@ The circular and compartmentalized workflow of Commute allows us to deliver tail
 ## 📊 Scientific Research
 Our scientific publications.
 
-[Revealing the similarity between urban transportation networks and optimal transport-based infrastructures](https://arxiv.org/abs/2209.06751)<br/>D Leite, C De Bacco<br/>arXiv:2209.06751 (2022)
+- [Revealing the similarity between urban transportation networks and optimal transport-based infrastructures](https://arxiv.org/abs/2209.06751)<br/>D Leite, C De Bacco<br/>arXiv:2209.06751 (2022)
 
-[Community Detection in networks by Dynamical Optimal Transport Formulation](https://www.nature.com/articles/s41598-022-20986-y)<br/>D Leite, D Baptista, A A Ibrahim, E Facca, C De Bacco<br/>Nature Sci. Rep. 12, 16811 (2022)
+- [Community Detection in networks by Dynamical Optimal Transport Formulation](https://www.nature.com/articles/s41598-022-20986-y)<br/>D Leite, D Baptista, A A Ibrahim, E Facca, C De Bacco<br/>Nature Sci. Rep. 12, 16811 (2022)
 
-[Multicommodity routing optimization for engineering networks](https://www.nature.com/articles/s41598-022-11348-9)<br/>A Lonardi, M Putti, C De Bacco<br/>Nature Sci. Rep. 12, 7474 (2022)
+- [Multicommodity routing optimization for engineering networks](https://www.nature.com/articles/s41598-022-11348-9)<br/>A Lonardi, M Putti, C De Bacco<br/>Nature Sci. Rep. 12, 7474 (2022)
 
-[Sustainable optimal transport in multilayer networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.064302)<br/>A A Ibrahim, D Leite, C De Bacco<br/>Phys. Rev. E 105, 064302 (2022)
+- [Sustainable optimal transport in multilayer networks](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.105.064302)<br/>A A Ibrahim, D Leite, C De Bacco<br/>Phys. Rev. E 105, 064302 (2022)
 
-[Immiscible Color Flows in Optimal Transport Networks for Image Classification](https://arxiv.org/abs/2205.02938)<br/>A Lonardi, D Baptista, C De Bacco<br/>arXiv:2205.02938 (2022)
+- [Immiscible Color Flows in Optimal Transport Networks for Image Classification](https://arxiv.org/abs/2205.02938)<br/>A Lonardi, D Baptista, C De Bacco<br/>arXiv:2205.02938 (2022)
 
-[Designing optimal networks for multicommodity transport problem](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043010)<br/>A Lonardi, E Facca, M Putti, C De Bacco<br/>Phys. Rev. Research 3, 043010 (2021)
+- [Designing optimal networks for multicommodity transport problem](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.3.043010)<br/>A Lonardi, E Facca, M Putti, C De Bacco<br/>Phys. Rev. Research 3, 043010 (2021)
 
-[Convergence properties of optimal transport-based temporal networks](https://link.springer.com/chapter/10.1007/978-3-030-93409-5_48)<br/>D Baptista, C De Bacco<br/>Complex Networks & Their Applications X (2021)
+- [Convergence properties of optimal transport-based temporal networks](https://link.springer.com/chapter/10.1007/978-3-030-93409-5_48)<br/>D Baptista, C De Bacco<br/>Complex Networks & Their Applications X (2021)
 
-[Principled network extraction from images](https://royalsocietypublishing.org/doi/10.1098/rsos.210025)<br/>D Baptista, C De Bacco<br/>R. Soc. Open Science 8, 210025 (2021)
+- [Principled network extraction from images](https://royalsocietypublishing.org/doi/10.1098/rsos.210025)<br/>D Baptista, C De Bacco<br/>R. Soc. Open Science 8, 210025 (2021)
 
-[Infrastructure adaptation and emergence of loops in network routing with time-dependent loads](https://arxiv.org/abs/2112.10620)<br/>A Lonardi, E Facca, M Putti, C De Bacco<br/>arXiv:2112.10620 (2021)
+- [Infrastructure adaptation and emergence of loops in network routing with time-dependent loads](https://arxiv.org/abs/2112.10620)<br/>A Lonardi, E Facca, M Putti, C De Bacco<br/>arXiv:2112.10620 (2021)
 
-[Optimal Transport in Multilayer Networks for Traffic Flow Optimization](https://www.mdpi.com/1999-4893/14/7/189)<br/>A A Ibrahim, A Lonardi, C De Bacco<br/>Algorithms 14(7), 189 (2021)
+- [Optimal Transport in Multilayer Networks for Traffic Flow Optimization](https://www.mdpi.com/1999-4893/14/7/189)<br/>A A Ibrahim, A Lonardi, C De Bacco<br/>Algorithms 14(7), 189 (2021)
 
 - [Network extraction by routing optimization](https://www.nature.com/articles/s41598-020-77064-4)<br/>D Baptista, D Leite, E Facca, M Putti, C De Bacco<br/>Nature Sci. Rep. 10, 20806 (2020)
 
