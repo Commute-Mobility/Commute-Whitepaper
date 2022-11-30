@@ -76,22 +76,47 @@ This is how we envision transportation of the future.
 
 We believe that modern-day transportation needs to meet 5 crucial standards for a livable and human-centered future:
 
-<p style="text-align: center;">
 ![](./media/our5goals.png)
 The 5 criteria for livable transportation of the future.
-</p>
 
 ### Sustainability
 
 Since 1990, the constant increase in car ownership has steadily incremented Green House Gases (GHG) emissions derived from transport. These emissions peaked at 8.7 GtCO2e (Giga Tonnes of CO2 equivalent) in 2019, with 72% percent of transportation emissions coming from roads.
 The EU is legally bound **[EU]** to meet Carbon neutrality by 2050. In order to achieve this goal, its interim emission reduction target for 2030 is to decrease the current GHG emission by at least 55%. The only solution for modern-day urban transportation to meet these goals is for them to reduce dependencies (and ultimately not rely upon) the world's natural resources such as coal, oil, and gas. Sustainable urban networks are crucial for the future of humanity.
 
-<p style="text-align: center;">
 ![](./media/emission-urban.png)
 Contribution of transport to Global Green House emissions in 2019.
 Notes: Notes: CO2 = carbon dioxide; GHG = greenhouse gas; GtCO2e = gigatonnes of carbon dioxide equivalent.
 Source: **[BOEHM, MINX]**
-</p>
+
+### Safety & inclusivity
+The Global status report on road safety **[WHO]**, launched by the World Health Organization in December 2018 shows that the number of annual road traffic deaths had reached 1.35 million. Road traffic crashes are the leading cause of death of people aged between 5 and 29 years.
+Moreover, the current state of car-centric urban transportation is a major cause of societal inequality. As an example, in the U.S. people of color own substantially fewer cars (up to -14.5%) than white people **[US]**. Inadequate and scattered investments in public transport will only worsen the situation, and will not allow for achieving fair living standards for all.
+In light of these data, modern urban transport needs to be made safe and inclusive for all.
+
+### Efficiency
+Our goal is to integrate the compelling obligations of sustainability, safety, and inclusivity into efficient transport. The two key steps to achieve efficiency by redesigning transport networks are:
+1. reducing the need for travel by connecting people and infrastructures with improved urban design (e.g. creating hubs);
+2. shifting from car-centric networks to infrastructures where bikes, pedestrians, and public transport are predominant means of transport. 
+
+### Cohesiveness
+A crucial constraint that our urban networks need to meet is Cohesiveness **[CROW]**. This concept can be operationalized into a scientific framework. It consists of the union of three desiderata:
+Directness **[FOLCO]**: how far should a user travel to move from its origin to its destination with a desirable means of transport? This needs to be minimized.
+Connectedness **[FOLCO]**: are users able to reach any destination safely? We need to answer this positively.
+Robustness: is the transport infrastructure resilient to road jamming and breakage? We need to answer this positively.
+
+### Economical Competitiveness
+Recent studies **[SZELL]** show that cycling networks, which are a promising solution to unsustainable urban transport systems, need to (goal 1) be developed with the right growth strategy, and, crucially, (goal 2) be funded persistently while avoiding as much as possible scattered investments. To achieve these goals and to have a low economical burden on societies, at Commute we want to create a platform for making coordinated investments to improve the transport infrastructure as a whole, i.e. with several coexisting means of transportation.
+
+## References
+**[BOEHM]** Boehm, S., L. Jeffery, K. Levin, J. Hecke, C. Schumer, C. Fyson, A. Majid, J. Jaeger, A. Nilsson, S. Naimoli, J. Thwaites, E. Cassidy, K. Lebling, M. Sims, R. Waite, R. Wilson, S. Castellanos, N. Singh, A. Lee, and A. Geiges. 2022. State of Climate Action 2022. Berlin and Cologne, Germany, San Francisco, CA, and Washington, DC: Bezos Earth Fund, Climate Action Tracker, Climate Analytics, ClimateWorks Foundation, NewClimate Institute, the United Nations Climate Change High-Level Champions, and World Resources Institute, [https://doi.org/10.46830/wrirpt.22.00028](https://doi.org/10.46830/wrirpt.22.00028)<br/>
+**[MINX]** Minx, J.C., W.F. Lamb, R.M. Andrew, J.G. Canadell, M. Crippa, N. Döbbeling, P. Forster, et al. 2022. “A Comprehensive and Synthetic Dataset for Global, Regional and National Greenhouse Gas Emissions by Sector, 1970–2018, with an Extension to 2019 [Data Set].” Zenodo, [https://zenodo.org/record/6483002#.Y3z3ZOzMLFw](https://zenodo.org/record/6483002#.Y3z3ZOzMLFw)<br/>
+**[EU]** EU Climate Law: MEPs confirm deal on climate neutrality by 2050, [https://www.europarl.europa.eu/news/en/headlines/priorities/climate-change/20210621IPR06627/eu-climate-law-meps-confirm-deal-on-climate-neutrality-by-2050](https://www.europarl.europa.eu/news/en/headlines/priorities/climate-change/20210621IPR06627/eu-climate-law-meps-confirm-deal-on-climate-neutrality-by-2050)<br/>
+**[WHO]** Global status report on road safety 2018. Geneva: World Health Organization; 2018. Licence: CC BYNC-SA 3.0 IGO, [https://www.who.int/publications/i/item/9789241565684](https://www.who.int/publications/i/item/9789241565684)<br/>
+**[US]** Basav Sen, How the U.S. Transportation System Fuels Inequality, [https://inequality.org/research/public-transit-inequality/](https://inequality.org/research/public-transit-inequality/)<br/>
+**[CROW]** CROW, Design manual for bicycle traffic, 2016, [https://crowplatform.com/product/design-manual-for-bicycle-traffic/](https://crowplatform.com/product/design-manual-for-bicycle-traffic/)<br/>
+**[FOLCO]** Folco, P., Gauvin, L., Tizzoni, M., & Szell, M. (2022). Data-driven micromobility network planning for demand and safety. Environment and Planning B: Urban Analytics and City Science, 0(0), https://doi.org/10.1177/23998083221135611<br/>
+**[SZELL]** Szell, M., Mimar, S., Perlman, T. et al. Growing urban bicycle networks. Sci Rep 12, 6765 (2022), [https://doi.org/10.1038/s41598-022-10783-y](https://doi.org/10.1038/s41598-022-10783-y)
 
 ## Contacts
 📧 Email<br/>
