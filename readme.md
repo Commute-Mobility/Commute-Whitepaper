@@ -7,12 +7,12 @@
 ### Redesign Transportation
 #### 🚦 [Transportation Systems](#-transportation-systems-1)
 #### ☀️ [Urban Transportation of the Future](#%EF%B8%8F-urban-transportation-of-the-future-1)
-#### 🎯 [Commute Workflow](#️-commute-workflow)
-#### 📊 [Scientific Research](#-scientific-research)
+#### 🎯 [Commute Workflow](#-commute-workflow-1)
+#### 📊 [Scientific Research](#-scientific-research-1)
 ### Behind Commute
-#### 💪 [The Team](#-the-team)
+#### 💪 [The Team](#-the-team-1)
 #### 📧  [Contact Us](#-contact-us)
-#### [References](#references-1)
+#### 📙 [References](#references-1)
 
 ## 🌿 What is Commute?
 Our services.
@@ -82,9 +82,7 @@ Since 1990, the constant increase in car ownership has steadily incremented Gree
 The EU is legally bound **[EU]** to meet Carbon neutrality by 2050. In order to achieve this goal, its interim emission reduction target for 2030 is to decrease the current GHG emission by at least 55%. The only solution for modern-day urban transportation to meet these goals is for them to reduce dependencies (and ultimately not rely upon) the world's natural resources such as coal, oil, and gas. Sustainable urban networks are crucial for the future of humanity.
 
 ![](./media/emission-urban.png)
-*Contribution of transport to Global Green House emissions in 2019.*<br/>
-*Notes: Notes: CO2 = carbon dioxide; GHG = greenhouse gas; GtCO2e = gigatonnes of carbon dioxide equivalent.*<br/>
-*Source:* **[BOEHM, MINX]***.*
+*Contribution of transport to Global Green House emissions in 2019.* *Notes: Notes: CO2 = carbon dioxide; GHG = greenhouse gas; GtCO2e = gigatonnes of carbon dioxide equivalent.* *Source:* **[BOEHM, MINX]***.*
 
 ### Safety & inclusivity
 The Global status report on road safety **[WHO]**, launched by the World Health Organization in December 2018 shows that the number of annual road traffic deaths had reached 1.35 million. Road traffic crashes are the leading cause of death of people aged between 5 and 29 years.
@@ -110,7 +108,7 @@ Our workflow: data-driven solutions tailored to clients' requests.
 
 The workflow we adopt is made of 6 circular steps:
 
-![](./media/ourmethod.png.png)
+![](./media/ourmethod.png)
 *Our workflow.*
 
 The circular and compartmentalized workflow of Commute allows us to deliver tailored solutions to each client request while also guaranteeing an efficient and high-level work pipeline.
@@ -176,41 +174,39 @@ Optimal Transport in Multilayer Networks for Traffic Flow Optimization
 A A Ibrahim, A Lonardi, C De Bacco
 Algorithms 14(7), 189 (2021)
 
-Network extraction by routing optimization
-D Baptista, D Leite, E Facca, M Putti, C De Bacco
-Nature Sci. Rep. 10, 20806 (2020)
+- Network extraction by routing optimization<br/>D Baptista, D Leite, E Facca, M Putti, C De Bacco<br/>Nature Sci. Rep. 10, 20806 (2020)
 
 ## Behind Commute
 
 ## 💪 The Team
 Meet the people behind Commute.
 
-![](media/alessandro.jpeg)
-**Alessandro Lonardi**
-Head, Research Team
-Cofounder
-Max Planck Institute for Intelligent Systems
+![](media/alessandro.jpeg)<br/>
+**Alessandro Lonardi**<br/>
+Head, Research Team<br/>
+Cofounder<br/>
+Max Planck Institute for Intelligent Systems<br/>
 [🌐](https://aleable.github.io/)
 
-![](media/daniela.jpeg)
-**Daniela Leite**
-Research Team
-Cofounder
-Huawei Technologies, Max Planck Institute for Intelligent Systems
+![](media/daniela.jpeg)<br/>
+**Daniela Leite**<br/>
+Research Team<br/>
+Cofounder<br/>
+Huawei Technologies, Max Planck Institute for Intelligent Systems<br/>
 [🌐](https://is.mpg.de/person/dleite)
 
-![](media/diego.jpeg)
-**Diego Baptista**
-Research Team
-Cofounder
-Max Planck Institute for Intelligent Systems
+![](media/diego.jpeg)<br/>
+**Diego Baptista**<br/>
+Research Team<br/>
+Cofounder<br/>
+Max Planck Institute for Intelligent Systems<br/>
 [🌐](https://diegoabt.github.io/)
 
-![](media/caterina.png)
-**Caterina De Bacco**
-Scientific Advisor
-Cofounder
-Max Planck Institute for Intelligent Systems
+![](media/caterina.png)<br/>
+**Caterina De Bacco**<br/>
+Scientific Advisor<br/>
+Cofounder<br/>
+Max Planck Institute for Intelligent Systems<br/>
 [🌐](https://www.cdebacco.com/)
 
 ## 📧 Contact Us
@@ -224,9 +220,9 @@ Alternatively, below you can find all our contacts.
 🐦 Twitter<br/>
 💼 Linkedin<br/>
 🐘 Mastodon<br/>
-🛠️ GitHub<br/>
+🛠️ [GitHub](https://github.com/Commute-Mobility)<br/>
 
-## References
+## 📙 References
 
 **[WIKI]** [https://en.wikipedia.org/wiki/Transport](https://en.wikipedia.org/wiki/Transport)<br/>
 **[RODRIGUE]** The Geography of Transport Systems FIFTH EDITION Jean-Paul Rodrigue (2020), New York: Routledge, 456 pages. ISBN 978-0-367-36463-2, [https://doi.org/10.4324/9780429346323](https://doi.org/10.4324/9780429346323)<br/>
@@ -238,6 +234,8 @@ Alternatively, below you can find all our contacts.
 **[CROW]** CROW, Design manual for bicycle traffic, 2016, [https://crowplatform.com/product/design-manual-for-bicycle-traffic/](https://crowplatform.com/product/design-manual-for-bicycle-traffic/)<br/>
 **[FOLCO]** Folco, P., Gauvin, L., Tizzoni, M., & Szell, M. (2022). Data-driven micromobility network planning for demand and safety. Environment and Planning B: Urban Analytics and City Science, 0(0), https://doi.org/10.1177/23998083221135611<br/>
 **[SZELL]** Szell, M., Mimar, S., Perlman, T. et al. Growing urban bicycle networks. Sci Rep 12, 6765 (2022), [https://doi.org/10.1038/s41598-022-10783-y](https://doi.org/10.1038/s41598-022-10783-y)
+
+---
 
 © Commute 2022. All rights reserved.<br/>
 Powered by [Foam](https://github.com/foambubble).
