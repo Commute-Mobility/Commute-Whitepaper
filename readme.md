@@ -5,13 +5,14 @@
 #### ❓ [Why Commute?](#-why-commute)
 #### 🔭 [Mission & Vision](#-mission--vision-1)
 ### Redesign Transportation
-#### 🚦 [Transportation Systems](#-transportation-systems)
-#### ☀️ [Urban Transportation of the Future](#️-urban-transportation-of-the-future)
+#### 🚦 [Transportation Systems](#-transportation-systems-1)
+#### ☀️ [Urban Transportation of the Future](#%EF%B8%8F-urban-transportation-of-the-future-1)
 #### 🎯 [Commute Workflow](#️-commute-workflow)
 #### 📊 [Scientific Research](#-scientific-research)
 ### Behind Commute
 #### 💪 [The Team](#-the-team)
 #### 📧  [Contact Us](#-contact-us)
+#### [References](#references-1)
 
 ## 🌿 What is Commute?
 Our services.
@@ -67,17 +68,13 @@ Other transportation elements are:
 
 At Commute, we focus on empowering policymakers with scientific tools to create better transportation infrastructures where the operation of diverse transportation means is optimal. 
 
-### References
-**[WIKI]** [https://en.wikipedia.org/wiki/Transport](https://en.wikipedia.org/wiki/Transport)<br/>
-**[RODRIGUE]** The Geography of Transport Systems FIFTH EDITION Jean-Paul Rodrigue (2020), New York: Routledge, 456 pages. ISBN 978-0-367-36463-2, [https://doi.org/10.4324/9780429346323](https://doi.org/10.4324/9780429346323)
-
 ## ☀️ Urban Transportation of the Future
 This is how we envision transportation of the future.
 
 We believe that modern-day transportation needs to meet 5 crucial standards for a livable and human-centered future:
 
-![](./media/our5goals.png)
-The 5 criteria for livable transportation of the future.
+![](./media/our5goals.png) <br/>
+*The 5 criteria for livable transportation of the future.*
 
 ### Sustainability
 
@@ -85,9 +82,9 @@ Since 1990, the constant increase in car ownership has steadily incremented Gree
 The EU is legally bound **[EU]** to meet Carbon neutrality by 2050. In order to achieve this goal, its interim emission reduction target for 2030 is to decrease the current GHG emission by at least 55%. The only solution for modern-day urban transportation to meet these goals is for them to reduce dependencies (and ultimately not rely upon) the world's natural resources such as coal, oil, and gas. Sustainable urban networks are crucial for the future of humanity.
 
 ![](./media/emission-urban.png)
-Contribution of transport to Global Green House emissions in 2019.
-Notes: Notes: CO2 = carbon dioxide; GHG = greenhouse gas; GtCO2e = gigatonnes of carbon dioxide equivalent.
-Source: **[BOEHM, MINX]**
+*Contribution of transport to Global Green House emissions in 2019.*<br/>
+*Notes: Notes: CO2 = carbon dioxide; GHG = greenhouse gas; GtCO2e = gigatonnes of carbon dioxide equivalent.*<br/>
+*Source:* **[BOEHM, MINX]***.*
 
 ### Safety & inclusivity
 The Global status report on road safety **[WHO]**, launched by the World Health Organization in December 2018 shows that the number of annual road traffic deaths had reached 1.35 million. Road traffic crashes are the leading cause of death of people aged between 5 and 29 years.
@@ -108,7 +105,131 @@ Robustness: is the transport infrastructure resilient to road jamming and breaka
 ### Economical Competitiveness
 Recent studies **[SZELL]** show that cycling networks, which are a promising solution to unsustainable urban transport systems, need to (goal 1) be developed with the right growth strategy, and, crucially, (goal 2) be funded persistently while avoiding as much as possible scattered investments. To achieve these goals and to have a low economical burden on societies, at Commute we want to create a platform for making coordinated investments to improve the transport infrastructure as a whole, i.e. with several coexisting means of transportation.
 
+## 🎯 Commute Workflow
+Our workflow: data-driven solutions tailored to clients' requests.
+
+The workflow we adopt is made of 6 circular steps:
+
+![](./media/ourmethod.png.png)
+*Our workflow.*
+
+The circular and compartmentalized workflow of Commute allows us to deliver tailored solutions to each client request while also guaranteeing an efficient and high-level work pipeline.
+
+**The forward pass: from clients to software development**
+
+**Step 1.** When getting in contact with Commute, a Client initiates the first step of the workflow. Each client can make different types of requests dealing with redesigning urban transportation infrastructures at any time of their life cycle. Examples are (1) the evaluation of transport infrastructures to meet safety or sustainability desiderata; (2) the design of urban transportation networks from scratch; and (3) the optimization of traffic flows on pre-existing infrastructures.
+
+**Step 2.** Each client request is answered by our Representatives. At this stage, our team is in charge of collecting all the necessary data (which can be optionally provided by the clients) to provide a comprehensive initial evaluation of the benefit granted by Commute's solutions.
+
+**Step 3.** Once the initial evaluation is done, the client request gets transferred to our Research Team which is in charge of the scientific operazionalization of the problem. This consists in translating the initial problem assessment into a rigorous mathematical formulation. This problem is then tackled with state-of-the-art scientific methods.
+
+**Step 4.** The scientific framework is algorithmically implemented by our Software Development Team, which is in charge of: (1) collecting all the data necessary for high-quality results, (2) building a code toolbox to address the client case study and (3) producing the analysis outputs.
+
+**The backward pass: from software development to tailored policies**
+
+**Step 5.** Once our software returns an output, the Research Team is in charge of the scientific evaluation. This consists of (1) a post-processing phase where a thorough statistical analysis allows us to evaluate the effectiveness of our solutions, and (2) the formulation of an urban transportation policy.
+
+**Step 6.** In the last stage of the workflow, the Representatives meet again with the client. Here, we present a portfolio with our solutions and we agree with the client upon a periodic quality assessment of our mobility solutions.
+
+**(Back to) Step 1.** The client.
+
+## 📊 Scientific Research
+Our scientific publications.
+
+Revealing the similarity between urban transportation networks and optimal transport-based infrastructures
+D Leite, C De Bacco
+arXiv:2209.06751 (2022)
+
+Community Detection in networks by Dynamical Optimal Transport Formulation
+D Leite, D Baptista, A A Ibrahim, E Facca, C De Bacco
+Nature Sci. Rep. 12, 16811 (2022)
+
+Multicommodity routing optimization for engineering networks
+A Lonardi, M Putti, C De Bacco
+Nature Sci. Rep. 12, 7474 (2022)
+
+Sustainable optimal transport in multilayer networks
+A A Ibrahim, D Leite, C De Bacco
+Phys. Rev. E 105, 064302 (2022)
+
+Immiscible Color Flows in Optimal Transport Networks for Image Classification
+A Lonardi, D Baptista, C De Bacco
+arXiv:2205.02938 (2022)
+
+Designing optimal networks for multicommodity transport problem
+A Lonardi, E Facca, M Putti, C De Bacco
+Phys. Rev. Research 3, 043010 (2021)
+
+Convergence properties of optimal transport-based temporal networks
+D Baptista, C De Bacco
+Complex Networks & Their Applications X (2021)
+
+Principled network extraction from images
+D Baptista, C De Bacco
+R. Soc. Open Science 8, 210025 (2021)
+
+Infrastructure adaptation and emergence of loops in network routing with time-dependent loads
+A Lonardi, E Facca, M Putti, C De Bacco
+arXiv:2112.10620 (2021)
+
+Optimal Transport in Multilayer Networks for Traffic Flow Optimization
+A A Ibrahim, A Lonardi, C De Bacco
+Algorithms 14(7), 189 (2021)
+
+Network extraction by routing optimization
+D Baptista, D Leite, E Facca, M Putti, C De Bacco
+Nature Sci. Rep. 10, 20806 (2020)
+
+## Behind Commute
+
+## 💪 The Team
+Meet the people behind Commute.
+
+![](media/alessandro.jpeg)
+**Alessandro Lonardi**
+Head, Research Team
+Cofounder
+Max Planck Institute for Intelligent Systems
+[🌐](https://aleable.github.io/)
+
+![](media/daniela.jpeg)
+**Daniela Leite**
+Research Team
+Cofounder
+Huawei Technologies, Max Planck Institute for Intelligent Systems
+[🌐](https://is.mpg.de/person/dleite)
+
+![](media/diego.jpeg)
+**Diego Baptista**
+Research Team
+Cofounder
+Max Planck Institute for Intelligent Systems
+[🌐](https://diegoabt.github.io/)
+
+![](media/caterina.png)
+**Caterina De Bacco**
+Scientific Advisor
+Cofounder
+Max Planck Institute for Intelligent Systems
+[🌐](https://www.cdebacco.com/)
+
+## 📧 Contact Us
+Where can you find us?
+
+To get in touch with us you can click HERE!
+
+Alternatively, below you can find all our contacts.
+
+📧 Email<br/>
+🐦 Twitter<br/>
+💼 Linkedin<br/>
+🐘 Mastodon<br/>
+🛠️ GitHub<br/>
+
 ## References
+
+**[WIKI]** [https://en.wikipedia.org/wiki/Transport](https://en.wikipedia.org/wiki/Transport)<br/>
+**[RODRIGUE]** The Geography of Transport Systems FIFTH EDITION Jean-Paul Rodrigue (2020), New York: Routledge, 456 pages. ISBN 978-0-367-36463-2, [https://doi.org/10.4324/9780429346323](https://doi.org/10.4324/9780429346323)<br/>
 **[BOEHM]** Boehm, S., L. Jeffery, K. Levin, J. Hecke, C. Schumer, C. Fyson, A. Majid, J. Jaeger, A. Nilsson, S. Naimoli, J. Thwaites, E. Cassidy, K. Lebling, M. Sims, R. Waite, R. Wilson, S. Castellanos, N. Singh, A. Lee, and A. Geiges. 2022. State of Climate Action 2022. Berlin and Cologne, Germany, San Francisco, CA, and Washington, DC: Bezos Earth Fund, Climate Action Tracker, Climate Analytics, ClimateWorks Foundation, NewClimate Institute, the United Nations Climate Change High-Level Champions, and World Resources Institute, [https://doi.org/10.46830/wrirpt.22.00028](https://doi.org/10.46830/wrirpt.22.00028)<br/>
 **[MINX]** Minx, J.C., W.F. Lamb, R.M. Andrew, J.G. Canadell, M. Crippa, N. Döbbeling, P. Forster, et al. 2022. “A Comprehensive and Synthetic Dataset for Global, Regional and National Greenhouse Gas Emissions by Sector, 1970–2018, with an Extension to 2019 [Data Set].” Zenodo, [https://zenodo.org/record/6483002#.Y3z3ZOzMLFw](https://zenodo.org/record/6483002#.Y3z3ZOzMLFw)<br/>
 **[EU]** EU Climate Law: MEPs confirm deal on climate neutrality by 2050, [https://www.europarl.europa.eu/news/en/headlines/priorities/climate-change/20210621IPR06627/eu-climate-law-meps-confirm-deal-on-climate-neutrality-by-2050](https://www.europarl.europa.eu/news/en/headlines/priorities/climate-change/20210621IPR06627/eu-climate-law-meps-confirm-deal-on-climate-neutrality-by-2050)<br/>
@@ -117,13 +238,6 @@ Recent studies **[SZELL]** show that cycling networks, which are a promising sol
 **[CROW]** CROW, Design manual for bicycle traffic, 2016, [https://crowplatform.com/product/design-manual-for-bicycle-traffic/](https://crowplatform.com/product/design-manual-for-bicycle-traffic/)<br/>
 **[FOLCO]** Folco, P., Gauvin, L., Tizzoni, M., & Szell, M. (2022). Data-driven micromobility network planning for demand and safety. Environment and Planning B: Urban Analytics and City Science, 0(0), https://doi.org/10.1177/23998083221135611<br/>
 **[SZELL]** Szell, M., Mimar, S., Perlman, T. et al. Growing urban bicycle networks. Sci Rep 12, 6765 (2022), [https://doi.org/10.1038/s41598-022-10783-y](https://doi.org/10.1038/s41598-022-10783-y)
-
-## Contacts
-📧 Email<br/>
-🐦 Twitter<br/>
-💼 Linkedin<br/>
-🐘 Mastodon<br/>
-🛠️ GitHub<br/>
 
 © Commute 2022. All rights reserved.<br/>
 Powered by [Foam](https://github.com/foambubble).
