@@ -1,7 +1,7 @@
 ## The company for data-driven mobility solutions for cities of the future.
 
 ## NAVIGATION INDEX
-🌿 [What is Commute?](./pages/What-is-Commute?.md)
+🌿 [What is Commute?](https://commute-mobility.github.io/Commute-Whitepaper/pages/../../../../What-is-Commute?.md)
 
 ## REDESIGN TRANSPORTATION
 
