@@ -195,10 +195,10 @@ To get in touch with us you can click HERE!
 
 Alternatively, below you can find all our contacts.
 
-📧 Email<br/>
-🐦 Twitter<br/>
-💼 Linkedin<br/>
-🐘 Mastodon<br/>
+📧 [Email](mailto:commute@tuebingen.mpg.de)<br/>
+🐦 [Twitter](https://twitter.com/CommuteMobility)<br/>
+💼 [Linkedin](https://www.linkedin.com/company/commute-mobility/)<br/>
+🐘 [Mastodon](https://mastodon.world/@commute)<br/>
 🛠️ [GitHub](https://github.com/Commute-Mobility)<br/>
 
 ## 📙 References
