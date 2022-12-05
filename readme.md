@@ -191,7 +191,7 @@ Max Planck Institute for Intelligent Systems<br/>
 ## 📧 Contact Us
 Where can you find us?
 
-To get in touch with us you can click HERE!
+To get in touch with us you can click [HERE](https://commute-mobility.github.io/html/contact.html)!
 
 Alternatively, below you can find all our contacts.
 
